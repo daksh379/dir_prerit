@@ -5,3 +5,8 @@ this will take you to the visual studio code
 ctrl + shift (before that in GUI create a repo)
 then initialize repo by GUI or git init command in visual studio code
 select new file option and you are good to go
+git add .
+git commit -m "comment"
+git push
+git status
+if upstream is not set up then setup by "git push --set-upstream origin master"
