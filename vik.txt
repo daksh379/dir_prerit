@@ -1,0 +1,4 @@
+what is source
+what is path
+what is staged
+what is worktree
