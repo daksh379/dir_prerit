@@ -2,3 +2,4 @@ what is source
 what is path
 what is staged
 what is worktree
+ask about vi edit
