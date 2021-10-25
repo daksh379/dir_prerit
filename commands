@@ -1,0 +1,12 @@
+cat to only read
+cat >> "filename" enter and content[A
+[D[D[D[C[D[D[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ct to append means to add to the file
+
+for finding the word 
+cat "filename" | grep -i "word" [1;
+
+for counting the word
+cat "filename" | grep -i "word" | wc -l
+
